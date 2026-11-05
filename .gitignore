@@ -1,0 +1,6 @@
+# Exclude project archive
+/auditfolder.tar.gz
+
+# Exclude old documentation files
+/CHANGELOG.md
+/changes.md
